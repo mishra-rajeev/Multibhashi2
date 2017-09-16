@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multibhashi</string>
+    <string name="my_api">http://akshaycrt2k.com/getSampleImages.php </string>
+</resources>
